@@ -1,5 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Hi 👋, I'm Inshal Amir</h1>
+<h1 align="center">Hi 👋, I'm Areeba Akhtar</h1>
 <h3 align="center">Crafting AI solutions | Data-driven insights | AI Automation Expert</h3>
 
 
